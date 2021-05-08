@@ -2,6 +2,7 @@ import React from 'react';
 import './home.css';
 import Product from './Product'
 const Home = () =>{
+    console.log("test");
     return(
         <div className="home">
             <div className="home__container">
